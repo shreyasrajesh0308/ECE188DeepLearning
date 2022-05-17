@@ -1,4 +1,4 @@
-# ECE1188 Project2
+# ECE188 Project2
 
 Project 2 for the ECE188 course Spring 22.
 
