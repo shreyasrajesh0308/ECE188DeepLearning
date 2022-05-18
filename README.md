@@ -16,4 +16,6 @@ The Colab notebooks has all the information required for the project.
 
 * Also upload the two notebooks to a public github repo and attack the link of the github repo at the top of one of your notebooks. 
 
+**DUE DATA** : 10th June 2022
+
 Goodluck!
